@@ -1,8 +1,3 @@
----
-layout: default
-title: Welcome –– CryptoCurrencyMail
----
-
 # CryptoCurrencyMail
 
 ## Welcome to GitHub Pages
