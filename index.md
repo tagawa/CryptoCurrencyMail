@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome –– CryptoCurrencyMail
+title: Welcome to CryptoCurrencyMail
 ---
 
 # CryptoCurrencyMail
